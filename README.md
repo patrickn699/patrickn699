@@ -13,6 +13,8 @@
 [![Medium Badge](https://img.shields.io/badge/-Prathmesh_Patil-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://prathmesh.patil699.medium.com/)](https://prathmesh.patil699.medium.com/)
 [![Kaggle Badge](https://img.shields.io/badge/-Prathmeshn-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/prathmeshn)](https://www.kaggle.com/prathmeshn)
 
+
+
 </br>
 
 - 🔭 I’m currently working on ... Indian Number Plate Extraction Project
@@ -28,10 +30,15 @@
 
 ![effect](https://user-images.githubusercontent.com/52091202/105957777-b81e6b80-609f-11eb-83a3-8ae352506d18.gif)
 
-#### I am currently working on: 
-- Indian Number Plate Detection: an end-to-end Deep Learning project to extract vehicle number plate details.
+### I am currently working on: 
+- [Indian Number Plate Detection](https://github.com/patrickn699/Indian-Number-Plate-Extraction): An end-to-end Deep Learning project to extract vehicle number plate details.
+
+- [INPR](https://github.com/patrickn699/INPR): This is an extension of the Indian Number Plate Detection project but in the form of Python Package so that anyone can use it easy!!
 
 ---
+
+
+ 
 
 ### Some of my blogs 📑📑📑📑
 
